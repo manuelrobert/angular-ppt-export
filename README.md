@@ -33,3 +33,5 @@ https://github.com/gitbrent/PptxGenJS/tree/master/demos
 https://gitbrent.github.io/PptxGenJS/docs/quick-start/
 
 http://gitbrent.github.io/PptxGenJS/docs/masters.html
+
+https://www.amcharts.com/docs/v4/concepts/exporting/#Enabling
